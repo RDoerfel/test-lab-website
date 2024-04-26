@@ -8,18 +8,18 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
+        Imaging Biomarkers of Biological Aging
         Research Group
       image:
-        filename: welcome.jpg
+        filename: 
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        At the **Imaging Biomarkers of Biological Aging Group** we aim to develop and validate biomarkers of biological aging using neuroimaging, and machine learning. The overarging goal is to develop frameworks for clinical trials assessing the effect of putative geroprotective compounds.  this includes the development of protocols for imaging studies and the development and validation of potential biomarkers.
   
   - block: collection
     content:
-      title: Latest News
+      title: People
       subtitle:
       text:
       count: 5
@@ -36,9 +36,9 @@ sections:
       view: card
       columns: '1'
   
-  - block: markdown
+  - block: collection
     content:
-      title:
+      title: Publications 
       subtitle: ''
       text:
     design:
@@ -56,12 +56,4 @@ sections:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
   
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
 ---
