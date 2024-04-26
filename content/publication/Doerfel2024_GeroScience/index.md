@@ -9,7 +9,7 @@ authors:
   - Jonas
   - Pontus
 
-doi: 'https://doi.org/10.1002/hbm.26502'
+doi: 'https://doi.org/10.1007/s11357-024-01148-6'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-26-04'
