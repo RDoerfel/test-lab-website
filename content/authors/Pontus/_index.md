@@ -20,18 +20,11 @@ organizations:
   - name: Karolinska Institutet; Neurobiology Research Unit
     url: 'https://ki.se/en/people/pontus-plaven-sigray'
 
-# Short bio (displayed in user profile at end of posts)
-bio: bla bla.
-
 interests:
   - bla
   - bla bla
   - bla bla bla
 
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
   - icon: twitter
     icon_pack: fab
