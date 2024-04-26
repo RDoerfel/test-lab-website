@@ -21,9 +21,9 @@ organizations:
     url: 'https://rdoerfel.github.io/'
 
 interests:
-  - bla
-  - bla bla
-  - bla bla bla
+  - Neuroscience
+  - Machine Learning
+  - Neuroimage Analysis
 
 social:
   - icon: twitter
