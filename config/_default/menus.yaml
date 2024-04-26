@@ -5,10 +5,13 @@
 
 main:
   - name: #About
+    url: #About
     weight: 1
   - name: #People
+    url: content
     weight: 2
   - name: #Publications
+    url: content
     weight: 3
   - name: #test
     weight: 4
