@@ -3,7 +3,7 @@
 title: Ruben P. Dörfel
 
 # Full Name (for SEO)
-first_name: Ruben
+first_name: Ruben P.
 last_name: Dörfel
 
 # Is this the primary user of the site?
@@ -28,10 +28,6 @@ interests:
   - bla bla
   - bla bla bla
 
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
   - icon: twitter
     icon_pack: fab
