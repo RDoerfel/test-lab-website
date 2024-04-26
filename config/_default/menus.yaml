@@ -8,10 +8,10 @@ main:
     url: /
     weight: 1
   - name: People
-    url: content
+    url: /#People
     weight: 2
   - name: #Publications
-    url: content
+    url: /
     weight: 3
   - name: #test
     weight: 4
