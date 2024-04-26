@@ -32,7 +32,7 @@ sections:
       sort_by: Params.position
       sort_ascending: true
     design:
-      show_interests: false
+      show_interests: true
       show_role: true
       show_social: true
 
@@ -41,19 +41,6 @@ sections:
       title: Publications 
       subtitle: ''
       text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: 
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+    view: citation
   
 ---
