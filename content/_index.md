@@ -36,11 +36,13 @@ sections:
       show_role: true
       show_social: true
 
-  - block: markdown
+  - block: collection
+    view: citation
     content:
       title: Publications 
       subtitle: ''
       text:
-    view: citation
+      filters:
+        tag: 'publication' 
   
 ---
