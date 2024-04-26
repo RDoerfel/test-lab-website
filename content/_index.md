@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: collections
+  - block: hero
     content:
       title: |
         Imaging Biomarkers of Biological Aging
