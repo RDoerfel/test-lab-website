@@ -1,12 +1,13 @@
 ---
-title: 'An example conference paper'
+title: 'Multimodal Brain Age Prediction Using Machine Learning: Combining Structural MRI and 5-HT2AR PET-derived Features'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Robert Ford
+  - Ruben
+  - Jonas
+  - Pontus
 
 # Author notes (optional)
 author_notes:
