@@ -5,14 +5,14 @@
 
 main:
   - name: About
-    url: /
+    url: "/#About"
     weight: 1
   - name: People
-    url: /
+    url: "/#People"
     weight: 2
     id: People
   - name: Publications
-    url: /
+    url: "/#Publications"
     weight: 3
 
 
