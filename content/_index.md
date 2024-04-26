@@ -36,7 +36,7 @@ sections:
       show_role: true
       show_social: true
 
-  - block: collection
+  - block: markdown
     content:
       title: Publications 
       subtitle: ''
