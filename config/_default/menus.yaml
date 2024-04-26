@@ -10,6 +10,7 @@ main:
   - name: People
     url: /
     weight: 2
+    id: People
   - name: Publications
     url: /
     weight: 3
