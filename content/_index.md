@@ -17,7 +17,7 @@ sections:
         
         At the **Imaging Biomarkers of Biological Aging Group** we aim to develop and validate biomarkers of biological aging using neuroimaging, and machine learning. The overarging goal is to develop frameworks for clinical trials assessing the effect of putative geroprotective compounds.  this includes the development of protocols for imaging studies and the development and validation of potential biomarkers.
   
-  - block: people
+  - block: collection
     content:
       title: Meet the Team
       # Choose which groups/teams of users to display.
@@ -35,7 +35,7 @@ sections:
       show_interests: false
       show_role: true
       show_social: true
-      
+
   - block: collection
     content:
       title: Publications 
