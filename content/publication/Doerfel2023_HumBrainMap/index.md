@@ -1,8 +1,9 @@
 ---
-title: "An example journal article"
+title: "Prediction of brain age using structural magnetic resonance imaging: A comparison of accuracy and test–retest reliability of publicly available software packages"
 authors:
-- admin
-- Robert Ford
+- Ruben
+- Jonas
+- Pontus
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
