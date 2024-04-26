@@ -20,22 +20,25 @@ sections:
   - block: collection
     content:
       title: People
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
     design:
       view: card
       columns: '1'
-  
+      content:
+      title: Meet the Team
+      user_groups:
+          - Principal Investigator
+          - Researchers
+          - Grad Students
+          - Administration
+          - Visitors
+          - Alumni
+      sort_by: Params.position
+      sort_ascending: true
+    design:
+      show_interests: false
+      show_role: true
+      show_social: true
+
   - block: collection
     content:
       title: Publications 
@@ -45,7 +48,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: 
           filters:
             brightness: 1
           parallax: false
