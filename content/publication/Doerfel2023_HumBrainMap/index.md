@@ -1,7 +1,11 @@
 ---
 title: "Prediction of brain age using structural magnetic resonance imaging: A comparison of accuracy and test–retest reliability of publicly available software packages"
 authors:
-- Ruben
+- Ruben 
+- Joan
+- Patrick M. Fisher
+- Melanie Ganz
+- Gitte M. Knudsen
 - Jonas
 - Pontus
 
