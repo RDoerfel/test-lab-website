@@ -6,6 +6,7 @@ title: 'Multimodal Brain Age Prediction Using Machine Learning: Combining Struct
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Ruben
+  - Melanie
   - Jonas
   - Pontus
 
