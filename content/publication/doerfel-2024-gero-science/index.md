@@ -37,4 +37,5 @@ abstract: To better assess the pathology of neurodegenerative disorders and the 
   std,=,0.68). In conclusion, 5-HT2AR binding measured using PET might be useful for
   improving the quantification of a biomarker for brain aging.
 tags: publication
+share: false
 ---
