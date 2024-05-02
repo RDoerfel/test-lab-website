@@ -17,8 +17,10 @@ role: PI
 
 # Organizations/Affiliations
 organizations:
-  - name: Karolinska Institutet; Neurobiology Research Unit
+  - name: Karolinska Institutet;
     url: 'https://ki.se/en/people/pontus-plaven-sigray'
+  - name: Neurobiology Research Unit, Copenhagen University Hospital Rigshospitalet
+
 
 interests:
   - bla

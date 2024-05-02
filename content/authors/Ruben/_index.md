@@ -19,6 +19,8 @@ role: Phd Student
 organizations:
   - name: Karolinska Institutet; Neurobiology Research Unit
     url: 'https://rdoerfel.github.io/'
+  - name: Neurobiology Research Unit, Copenhagen University Hospital Rigshospitalet
+
 
 interests:
   - Neuroscience

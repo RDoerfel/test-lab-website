@@ -17,7 +17,7 @@ role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
-  - name: neurobiology Research Unit
+  - name: Neurobiology Research Unit, Copenhagen University Hospital Rigshospitalet
 
 highlight_name: true
 
