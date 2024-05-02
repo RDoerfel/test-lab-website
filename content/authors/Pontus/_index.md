@@ -13,7 +13,7 @@ superuser: true
 position: 1
 
 # Role/position
-role: PI, PostDoc
+role: PI
 
 # Organizations/Affiliations
 organizations:
