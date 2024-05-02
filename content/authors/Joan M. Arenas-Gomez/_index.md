@@ -13,7 +13,6 @@ superuser: false
 position: 2
 
 # Role/position
-role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
