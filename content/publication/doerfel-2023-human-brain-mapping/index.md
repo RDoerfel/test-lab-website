@@ -15,7 +15,7 @@ publication_types:
 - article-journal
 publication: '*Human Brain Mapping*'
 doi: https://doi.org/10.1002/hbm.26502
-abstract: "Abstract Brain age prediction algorithms using structural magnetic resonance
+abstract: "Brain age prediction algorithms using structural magnetic resonance
   imaging (MRI) aim to assess the biological age of the human brain. The difference
   between a person's chronological age and the estimated brain age is thought to reflect
   deviations from a normal aging trajectory, indicating a slower or accelerated biological
