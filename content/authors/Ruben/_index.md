@@ -17,11 +17,11 @@ role: Phd Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Center for Psychiatry Research, Karolinska Institutet;
+  - name: Center for Psychiatry Research, Karolinska Institutet
   - name: Neurobiology Research Unit, Copenhagen University Hospital Rigshospitalet
 
 website:
-  - url: https://rdoerfel.github.io/
+  - https://rdoerfel.github.io/
 
 interests:
   - Neuroscience
@@ -47,3 +47,5 @@ highlight_name: true
 user_groups:
   - Researchers
 ---
+website:
+  - https://rdoerfel.github.io/
