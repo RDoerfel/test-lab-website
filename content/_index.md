@@ -45,6 +45,6 @@ sections:
       subtitle: ''
       text:
       filters:
-        tag: 'publication' 
+        publication_types: 'article-journal' 
   
 ---
