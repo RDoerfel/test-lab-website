@@ -17,13 +17,15 @@ role: PostDoc
 
 # Organizations/Affiliations
 organizations:
-  - name: Karolinska Institutet
-    url: 'https://ki.se/en/people/jonas-svensson'
+  - name: Center for Psychiatry Research, Karolinska Institutet;
 
 interests:
   - bla
   - bla bla
   - bla bla bla
+
+website:
+  - url: 'https://ki.se/en/people/jonas-svensson'
 
 social:
   - icon: twitter
