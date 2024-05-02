@@ -33,11 +33,7 @@ abstract: "Abstract Brain age prediction algorithms using structural magnetic re
   progression over a longer time span. Of the six packages, pyment and brainageR consistently
   showed the highest accuracy and test–retest reliability."
 tags:
-- Brain Age
-- MRI
-- Accuracy
-- Test-Retest
-- Reliability
+- publication
 links:
 - name: URL
   url: https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.26502

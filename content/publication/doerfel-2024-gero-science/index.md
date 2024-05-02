@@ -36,4 +36,5 @@ abstract: To better assess the pathology of neurodegenerative disorders and the 
   accurately. Combining the two measures improves the prediction further (mean MAE,=,5.54~years,
   std,=,0.68). In conclusion, 5-HT2AR binding measured using PET might be useful for
   improving the quantification of a biomarker for brain aging.
+tags: publication
 ---
