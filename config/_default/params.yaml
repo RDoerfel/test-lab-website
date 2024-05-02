@@ -40,6 +40,7 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: false
+  share: false
 
 # Site footer
 
@@ -55,7 +56,6 @@ footer:
 # Localization
 
 locale:
-  share: false
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
   address_format: en-us
