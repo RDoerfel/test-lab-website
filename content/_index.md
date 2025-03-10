@@ -8,14 +8,21 @@ sections:
   - block: hero
     id: about 
     content:
-      title: |
-        # Evaluating geroprotective interventions using *in vivo* medical imaging 
+      title: The Lab for Neuroimaging and Neuroinformatics (LNN) @ UCPH
       image:
         filename: lnn-logo.png
       text: |
-        <span style="font-size:0.9em;">  We aim to develop biomarkers and new treatments for neurodegenerative diseases. We do this by applying medical imaging techniques, such as MRI, PET and CT, to pre-clinical models of neurodegeneration, as well as human patients. Currently, we are running an academically sponsored phase IIa trial in early Alzheimer's disease, where we assess the effect of the drug sirolimus (a.k.a. rapamycin) on neurodegeneration, brain metabolism and aging processes. </span> <br>
-        
-        <span style="font-size:0.9em;">Our work also involves developing and validating biomarkers of aging that can be used as endpoints in clinical trials of geroprotective compounds. To this end, we apply machine learning models to large batches of multi-modal imaging data to estimate the biological age of different organ-systems in the human body.</span>
+        <p>
+          The Lab for Neuroimaging and Neuroinformatics (LNN) @ UCPH focuses on leveraging advanced imaging technologies and computational methods to study the human brain. The lab integrates neuroimaging data with neuroinformatics approaches to understand brain structure, function, and connectivity. Research areas typically include the development and application of machine learning algorithms, image analysis techniques, and data integration methods to advance the field of neuroscience and improve clinical outcomes in neurology and psychiatry. The lab's work often involves interdisciplinary collaboration, bridging gaps between computational sciences and neuroscience.
+        </p>
+
+        <h2>Interests</h2>
+        <ul>
+          <li>Medical Image Analysis</li>
+          <li>Fairness and Bias in Medicine</li>
+          <li>Explainable AI</li>
+          <li>Neuroinformatics</li>
+        </ul>
 
   - block: people
     id: people
