@@ -13,7 +13,7 @@ superuser: true
 position: 1
 
 # Role/position
-role: Associate Professor, Group Leader
+role: Group Leader
 
 # Organizations/Affiliations
 organizations:
