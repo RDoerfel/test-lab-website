@@ -13,7 +13,7 @@ superuser: false
 position: 2
 
 # Role/position
-role: Phd Student
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
@@ -46,7 +46,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Principal Investigator
 ---
 ### Website:
 - https://rdoerfel.github.io/
